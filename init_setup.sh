@@ -10,6 +10,6 @@ source activate ./env
 
 echo [$(date)]: "insralling the dev requirements"
 
-pip insrall -r requirements.txt
+pip install -r requirements.txt
 
 echo [$(date)]: "END"
